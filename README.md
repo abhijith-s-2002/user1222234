@@ -7,6 +7,6 @@ I am an Electronics and Communication Engineering student with a strong passion 
 
 🔭 I'm currently studying in NSS College of Engineering, persuing Electronics and Communication Engineering.
 🌱  I’m currently learning: Advanced JavaScript frameworks, cloud computing, and IoT integration.
-- 📫 How to reach me: abhi.s.17.2002@gmail.com
+📫 How to reach me: abhi.s.17.2002@gmail.com
 
 -->
