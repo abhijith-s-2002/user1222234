@@ -14,5 +14,5 @@ Beyond my coursework, I have developed a keen interest and proficiency in web de
 <!--GITHUB STATS-->
 [![ABHIJITH's GitHub stats](https://github-readme-stats.vercel.app/api?username=USER1222234&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USER1222234&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USER1222234&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
