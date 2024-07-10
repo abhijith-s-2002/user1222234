@@ -10,6 +10,9 @@ Beyond my coursework, I have developed a keen interest and proficiency in web de
 🔭 I'm currently studying in NSS College of Engineering, persuing Electronics and Communication Engineering.<br>
 🌱  I’m currently learning: Advanced JavaScript frameworks, cloud computing, and IoT integration.<br>
 📫 How to reach me: abhi.s.17.2002@gmail.com<br>
+<br>
 <!--GITHUB STATS-->
-[![ABHIJITH's GitHub stats](https://github-readme-stats.vercel.app/api?username=USER1222234&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USER1222234&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![ABHIJITH's GitHub stats](https://github-readme-stats.vercel.app/api?username=USER1222234&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) <br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USER1222234&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
