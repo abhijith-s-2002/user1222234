@@ -12,3 +12,4 @@ Beyond my coursework, I have developed a keen interest and proficiency in web de
 📫 How to reach me: abhi.s.17.2002@gmail.com<br>
 <!--GITHUB STATS-->
 [![ABHIJITH's GitHub stats](https://github-readme-stats.vercel.app/api?username=USER1222234&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USER1222234&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
