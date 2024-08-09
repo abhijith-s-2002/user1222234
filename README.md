@@ -11,7 +11,15 @@ Beyond my coursework, I have developed a keen interest and proficiency in web de
 🌱  I’m currently learning: Advanced JavaScript frameworks, cloud computing, and IoT integration.<br>
 📫 How to reach me: abhi.s.17.2002@gmail.com<br>
 
-Languages known:-Python,c,JavaScript,Html,CSS..
+Languages known:-<br>
+                Python<br>
+                c<br>
+                JavaScript<br>
+                Java<br>
+                Html<br>
+                CSS<br>
+                React<br>
+                Django<br>
 <br>
 <!--GITHUB STATS-->
 [![ABHIJITH's GitHub stats](https://github-readme-stats.vercel.app/api?username=USER1222234&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) <br>
